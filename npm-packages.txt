@@ -1,0 +1,9 @@
+1. npm install nodemon --save-dev
+    nodemon -> don't have to restart the server anymore everytime you make a change
+
+2. npm install express --save
+    express.js -> framework to handle stuff easier in node.js
+
+3. npm install body-parser --save
+    body-parser -> parses the body of the request. if this is not used req.body would be undefined
+    (express is special and sometimes removes this thing so install it)
