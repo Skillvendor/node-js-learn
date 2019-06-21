@@ -7,3 +7,9 @@
 3. npm install body-parser --save
     body-parser -> parses the body of the request. if this is not used req.body would be undefined
     (express is special and sometimes removes this thing so install it)
+
+4. npm install --save ejs
+    ejs -> templating just like in rails
+
+5. npm install --save mysql2
+    mysql2 -> mysql connector for the app
