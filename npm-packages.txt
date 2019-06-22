@@ -13,3 +13,6 @@
 
 5. npm install --save mysql2
     mysql2 -> mysql connector for the app
+
+6. npm install --save sequelize
+    sequelize -> ORM just like ActiveRecord for Rails or JPA for Java
